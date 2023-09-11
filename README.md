@@ -25,10 +25,6 @@ vérifier la disponibilité de certains produit pharmaceutique aux prés du de p
     <th> </th>
   </tr>
   <tr>
-    <th> Maps Page </th>
-    <th> Requests Stats Page </th>
-  </tr>
-  <tr>
     <td> <img src="https://i.imgur.com/EYY5YAp.png" width=220 height=450 /></td>
     <td> <img src="https://i.imgur.com/CSMaI8Z.png" width=220 height=450 /></td>
   </tr>
